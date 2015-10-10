@@ -13,7 +13,7 @@ let main argv =
     let fuel = float fuel
     
     let distancePerUnitOfFuel = distance / fuel; 
-
+     
     Console.WriteLine("Your car does a distance of " + (string distancePerUnitOfFuel) + "units per unit of fuel" )
 
     Console.ReadKey()
