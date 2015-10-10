@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DEV207.1x-Programming-in-f-sharp", "DEV207.1x-Programming-in-f-sharp\DEV207.1x-Programming-in-f-sharp.fsproj", "{4C46704B-EA3A-4D1D-9017-1EEBF043CE8A}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-my-first-app", "DEV207.1x-Programming-in-f-sharp\introduction-my-first-app.fsproj", "{4C46704B-EA3A-4D1D-9017-1EEBF043CE8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
