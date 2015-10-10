@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-my-first-app", "DEV207.1x-Programming-in-f-sharp\introduction-my-first-app.fsproj", "{4C46704B-EA3A-4D1D-9017-1EEBF043CE8A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-module-1-task-2", "introduction-module-1-task-2\introduction-module-1-task-2.fsproj", "{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4C46704B-EA3A-4D1D-9017-1EEBF043CE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C46704B-EA3A-4D1D-9017-1EEBF043CE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C46704B-EA3A-4D1D-9017-1EEBF043CE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
