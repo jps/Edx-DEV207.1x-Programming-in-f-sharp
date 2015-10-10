@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-my-first-app",
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-module-1-task-2", "introduction-module-1-task-2\introduction-module-1-task-2.fsproj", "{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-module-1-koan-1", "..\introduction-module-1-koan-1\introduction-module-1-koan-1\introduction-module-1-koan-1.fsproj", "{91623866-4318-49CE-8F60-BB69285E482F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AD3322-9849-4CDC-85D8-E160F1CD32FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91623866-4318-49CE-8F60-BB69285E482F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91623866-4318-49CE-8F60-BB69285E482F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91623866-4318-49CE-8F60-BB69285E482F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91623866-4318-49CE-8F60-BB69285E482F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
