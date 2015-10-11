@@ -11,11 +11,13 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-module-1-probl
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "introduction-module-1-koan-1", "introduction-module-1-koan-1\introduction-module-1-koan-1.fsproj", "{91623866-4318-49CE-8F60-BB69285E482F}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-if-then", "conditionals-if-then\conditionals-if-then.fsproj", "{D01D1409-C613-4FAD-96C9-1438ED4F1B58}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-if-then", "conditionals-if-then\conditionals-module-2-if-then.fsproj", "{D01D1409-C613-4FAD-96C9-1438ED4F1B58}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-looping", "conditionals-looping\conditionals-looping.fsproj", "{91FEAC7C-3519-4D41-AA7C-5EBE359CDE94}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-looping", "conditionals-looping\conditionals-module-2-looping.fsproj", "{91FEAC7C-3519-4D41-AA7C-5EBE359CDE94}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-recursion", "conditionals-recursion\conditionals-recursion.fsproj", "{B7702026-3188-473B-8992-49D7E1EB3995}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-recursion", "conditionals-recursion\conditionals-module-2-recursion.fsproj", "{B7702026-3188-473B-8992-49D7E1EB3995}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-task-1", "conditionals-module-2-task-1\conditionals-module-2-task-1.fsproj", "{7806B142-B6A2-4371-A8BC-D33BC6888838}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B7702026-3188-473B-8992-49D7E1EB3995}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7702026-3188-473B-8992-49D7E1EB3995}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7702026-3188-473B-8992-49D7E1EB3995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7806B142-B6A2-4371-A8BC-D33BC6888838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7806B142-B6A2-4371-A8BC-D33BC6888838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7806B142-B6A2-4371-A8BC-D33BC6888838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7806B142-B6A2-4371-A8BC-D33BC6888838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

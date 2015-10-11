@@ -5,14 +5,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b7702026-3188-473b-8992-49d7e1eb3995</ProjectGuid>
+    <ProjectGuid>91feac7c-3519-4d41-aa7c-5ebe359cde94</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>conditionals_recursion</RootNamespace>
-    <AssemblyName>conditionals_recursion</AssemblyName>
+    <RootNamespace>conditionals_looping</RootNamespace>
+    <AssemblyName>conditionals_looping</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFSharpCoreVersion>4.4.0.0</TargetFSharpCoreVersion>
-    <Name>conditionals-recursion</Name>
+    <Name>conditionals-module-2-looping</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -23,7 +23,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Debug\conditionals_recursion.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\conditionals_looping.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -34,7 +34,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Release\conditionals_recursion.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\conditionals_looping.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>

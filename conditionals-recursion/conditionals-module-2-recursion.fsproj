@@ -5,14 +5,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>d01d1409-c613-4fad-96c9-1438ed4f1b58</ProjectGuid>
+    <ProjectGuid>b7702026-3188-473b-8992-49d7e1eb3995</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>conditionals_if_then</RootNamespace>
-    <AssemblyName>conditionals_if_then</AssemblyName>
+    <RootNamespace>conditionals_recursion</RootNamespace>
+    <AssemblyName>conditionals_recursion</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFSharpCoreVersion>4.4.0.0</TargetFSharpCoreVersion>
-    <Name>conditionals-if-then</Name>
+    <Name>conditionals-module-2-recursion</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -23,7 +23,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Debug\conditionals_if_then.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\conditionals_recursion.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -34,7 +34,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Release\conditionals_if_then.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\conditionals_recursion.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
