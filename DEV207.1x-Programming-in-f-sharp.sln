@@ -21,6 +21,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-task-
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-koan-2", "conditionals-module-2-koan-2\conditionals-module-2-koan-2.fsproj", "{84D11B46-C74A-41B9-8551-0D8526051947}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-problem-2", "conditionals-module-2-problem-2\conditionals-module-2-problem-2.fsproj", "{22277E1C-FE41-4EA5-B9A0-BE013FA90830}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{84D11B46-C74A-41B9-8551-0D8526051947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84D11B46-C74A-41B9-8551-0D8526051947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84D11B46-C74A-41B9-8551-0D8526051947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22277E1C-FE41-4EA5-B9A0-BE013FA90830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22277E1C-FE41-4EA5-B9A0-BE013FA90830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22277E1C-FE41-4EA5-B9A0-BE013FA90830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22277E1C-FE41-4EA5-B9A0-BE013FA90830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
