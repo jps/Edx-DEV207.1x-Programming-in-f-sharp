@@ -25,6 +25,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "conditionals-module-2-probl
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "dataAndTypes-module-3-listsSequencesArrays", "dataAndTypes-module-3-listsSequencesArrays\dataAndTypes-module-3-listsSequencesArrays.fsproj", "{325A02F4-1843-487D-8199-DC1340989CA3}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "dataAndTypes-module-3-tuplesAndRecords", "dataAndTypes-module-3-tuples\dataAndTypes-module-3-tuplesAndRecords.fsproj", "{BCF5FAE8-AF26-438F-8326-367C5442F8A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{325A02F4-1843-487D-8199-DC1340989CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{325A02F4-1843-487D-8199-DC1340989CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{325A02F4-1843-487D-8199-DC1340989CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF5FAE8-AF26-438F-8326-367C5442F8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF5FAE8-AF26-438F-8326-367C5442F8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF5FAE8-AF26-438F-8326-367C5442F8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF5FAE8-AF26-438F-8326-367C5442F8A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
