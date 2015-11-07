@@ -31,6 +31,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "dataAndTypes-module-3-task-
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "dataAndTypes-module-3-koan-3", "dataAndTypes-module-3-koan-3\dataAndTypes-module-3-koan-3.fsproj", "{63DFE44E-27C1-48C6-9D53-07CFFA168E48}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "dataAndTypes-module-3-problem-3", "dataAndTypes-module-3-problem-3\dataAndTypes-module-3-problem-3.fsproj", "{B828727C-2164-40A6-A33B-05F59947DEC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{63DFE44E-27C1-48C6-9D53-07CFFA168E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63DFE44E-27C1-48C6-9D53-07CFFA168E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63DFE44E-27C1-48C6-9D53-07CFFA168E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B828727C-2164-40A6-A33B-05F59947DEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B828727C-2164-40A6-A33B-05F59947DEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B828727C-2164-40A6-A33B-05F59947DEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B828727C-2164-40A6-A33B-05F59947DEC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
