@@ -13,7 +13,7 @@ let (|IsMatchByName|_|) (input : Adapter) (name: string) =
  
 let checkmatch (record: Adapter) (name : string) =
     match name with 
-    | IsMatchByName record name -> ""
+    | IsMatchByName record name -> "Match"
     | _ -> "No match"
 
 [<EntryPoint>]
