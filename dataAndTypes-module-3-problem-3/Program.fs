@@ -38,14 +38,14 @@ let main argv =
     let mutable numbers = [enterNumber()]
 
     //allow user to input as many more values as they like
-    while enterAnother() do        
+    while enterAnother() do
         numbers <- enterNumber() :: numbers
 
     //Calculate product for provided values
     let products = numbers |> List.map (fun x -> (x,x * goldenRatio))
 
     //Print
-    products |> List.iter(fun x ->  
+    products |> List.iter(fun x ->
         let init , prod = x
         printResult init prod) 
     
