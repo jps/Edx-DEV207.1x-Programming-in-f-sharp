@@ -8,12 +8,12 @@ type Adapter =
 
 let (|IsMatchByName|_|) (input : Adapter) (name: string) =
     match input with
-    | {FriendlyName = friendlyName} when friendlyName = name -> Some((input.ID,input.IP))
+    | {FriendlyName = friendlyName} when friendlyName = name -> Some()
     | _ -> None
  
 let checkmatch (record: Adapter) (name : string) =
     match name with 
-    | IsMatchByName record name -> "Match"
+    | IsMatchByName record -> "Match"
     | _ -> "No match"
 
 [<EntryPoint>]
