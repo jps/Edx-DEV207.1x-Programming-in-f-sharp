@@ -39,6 +39,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-ac
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-additionalTopics", "patternMatching-module-4-additionalTopics\patternMatching-module-4-additionalTopics.fsproj", "{BBD4A61D-B85B-4FA6-809E-E6CF8C857BD1}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-problem-4", "patternMatching-module-4-problem-4\patternMatching-module-4-problem-4.fsproj", "{A9E7DFA9-E281-4541-A799-B724C0883BED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{BBD4A61D-B85B-4FA6-809E-E6CF8C857BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD4A61D-B85B-4FA6-809E-E6CF8C857BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD4A61D-B85B-4FA6-809E-E6CF8C857BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E7DFA9-E281-4541-A799-B724C0883BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E7DFA9-E281-4541-A799-B724C0883BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E7DFA9-E281-4541-A799-B724C0883BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E7DFA9-E281-4541-A799-B724C0883BED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
