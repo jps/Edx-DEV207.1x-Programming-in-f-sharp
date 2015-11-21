@@ -1,9 +1,4 @@
-﻿(*
-Please see correctly formatted solution here: 
-https://gist.github.com/rastapanda/72236934cf8c9b2ff0d2
-*)
-
-open System
+﻿open System
 open System.IO
 
 type Target = {
