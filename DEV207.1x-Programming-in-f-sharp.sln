@@ -39,9 +39,11 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-ac
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-additionalTopics", "patternMatching-module-4-additionalTopics\patternMatching-module-4-additionalTopics.fsproj", "{BBD4A61D-B85B-4FA6-809E-E6CF8C857BD1}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-koan-4", "patternMatching-module-4-koan-4\patternMatching-module-4-koan-4.fsproj", "{A9E7DFA9-E281-4541-A799-B724C0883BED}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-lab-4", "patternMatching-module-4-lab-4\patternMatching-module-4-lab-4.fsproj", "{A9E7DFA9-E281-4541-A799-B724C0883BED}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-problem-4", "patternMatching-module-4-problem-4\patternMatching-module-4-problem-4.fsproj", "{1C65FA3E-E048-4914-8A3E-DD3BAD4724EA}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-koan-4", "patternMatching-module-4-koan-4\patternMatching-module-4-koan-4.fsproj", "{1C65FA3E-E048-4914-8A3E-DD3BAD4724EA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "patternMatching-module-4-problem-4", "patternMatching-module-4-problem-4\patternMatching-module-4-problem-4.fsproj", "{36B4A4BF-F6D9-4598-9622-9698D5ABBADE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{1C65FA3E-E048-4914-8A3E-DD3BAD4724EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C65FA3E-E048-4914-8A3E-DD3BAD4724EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C65FA3E-E048-4914-8A3E-DD3BAD4724EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B4A4BF-F6D9-4598-9622-9698D5ABBADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B4A4BF-F6D9-4598-9622-9698D5ABBADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B4A4BF-F6D9-4598-9622-9698D5ABBADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B4A4BF-F6D9-4598-9622-9698D5ABBADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

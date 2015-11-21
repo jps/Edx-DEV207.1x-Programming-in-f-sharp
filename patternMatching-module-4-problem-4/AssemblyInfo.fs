@@ -1,4 +1,4 @@
-﻿namespace patternMatching_module_4_koan_4.AssemblyInfo
+﻿namespace patternMatching_module_4_problem_4.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,11 +7,11 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("patternMatching-module-4-koan-4")>]
+[<assembly: AssemblyTitle("patternMatching-module-4-problem-4")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("patternMatching-module-4-koan-4")>]
+[<assembly: AssemblyProduct("patternMatching-module-4-problem-4")>]
 [<assembly: AssemblyCopyright("Copyright ©  2015")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[<assembly: Guid("1c65fa3e-e048-4914-8a3e-dd3bad4724ea")>]
+[<assembly: Guid("36b4a4bf-f6d9-4598-9622-9698d5abbade")>]
 
 // Version information for an assembly consists of the following four values:
 // 
